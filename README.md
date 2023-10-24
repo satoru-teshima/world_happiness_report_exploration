@@ -21,3 +21,9 @@ The project was separated into these following folders
   Includes jupyter notebook and python codes
 - Visuals
   Includes visuals made from Python
+
+  ## Tableau Presentation
+
+  Visit the tableau presentation here.
+
+  [Tableau ](https://public.tableau.com/app/profile/satoru.teshima/viz/ExploringWorldHappinessReport2015-2022/ExploringWorldHappinessReport2015-2022?publish=yes)
